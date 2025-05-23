@@ -207,6 +207,7 @@ SELECT
     COUNT(*) AS total_orders
 FROM hourly_sale
 GROUP BY shift;
+--End the project
 ```
 
 ## Findings
